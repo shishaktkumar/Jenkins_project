@@ -12,4 +12,8 @@ print "There will be", cars_not_driven, "empty cars today."
 print "We can transport", carpool_capacity, "people today."
 print "We have", passengers, "to carpool today."
 print "We need to put about", average_passengers_per_car, "in each car."
+<<<<<<< HEAD
 print " vijay"
+=======
+print "Vijay "
+>>>>>>> 2bd800c91689abca73066245dcc491e892ba149b
